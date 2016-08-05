@@ -1,0 +1,11 @@
+{
+  "name": "webdriver",
+  "version": "",
+  "description": "automation test",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "wdio-mocha-framework": "^0.3.10",
+    "wdio-spec-reporter": "0.0.3",
+    "webdriverio": "^4.2.3"
+  }
+}
